@@ -1,7 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
 require('dotenv').config()
-console.log(process.env)
 const helmet = require('helmet');
 
 
